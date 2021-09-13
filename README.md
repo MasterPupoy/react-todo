@@ -1,4 +1,5 @@
-# THIS REACT TO-DO IS BUILT USING CRA BY ARDELLOSON
+# THIS REACT TO-DO IS BUILT USING CRA 
+@ardelloson
 
 # Getting Started with Create React App
 
